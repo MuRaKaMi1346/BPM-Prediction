@@ -29,7 +29,7 @@ For each audio file:
 - BPM labels are obtained from analysis tools or metadata
 - the features are used to train a regression model
 
-<img src="DataSet/BPM_relationships.png" width="500">
+<img src="DataSet/BPM_relationships.png" width="700">
 
 
 ## Feature Extraction
